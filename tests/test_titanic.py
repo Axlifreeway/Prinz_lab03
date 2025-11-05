@@ -1,5 +1,4 @@
 import pandas as pd
-import pytest
 
 from titanic import age_range_for
 
